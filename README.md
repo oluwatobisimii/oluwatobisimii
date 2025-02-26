@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @oluwatobisimii
-- 👀 I’m interested in software development
-- 🌱 I’m currently learning Javascript
-- 💞️ I’m looking to collaborate on frontend projects
-- 📫 How to reach me twitter.com/oluwatobisimii
+I'm a passionate Frontend Developer with experience in JavaScript and React. I enjoy building responsive and accessible web applications. Currently, I'm exploring advanced JavaScript frameworks and looking to collaborate on innovative frontend projects.
 
 
 <!---
